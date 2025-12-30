@@ -15,4 +15,4 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-This project also uses the Cascadia Code font by Microsoft and respective authors via Google Fonts.
+This project also uses the Cascadia Code font by Microsoft and respective authors.
