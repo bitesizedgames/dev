@@ -1,5 +1,5 @@
 This project uses a project created by another person other than me,
-called StatiCrypt. This project uses the MIT License so I shall show the agreement here:
+called StatiCrypt. This project uses the MIT License.
 
 MIT License 
 
